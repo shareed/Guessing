@@ -19,3 +19,8 @@ function setButtonColor(button, red, green, blue){
 
 //takes the first button in the array and changes the button colour to blue using your
 setButtonColor(buttons[0], 0, 0, 255);
+setButtonColor(buttons[1], 55,255, 25);
+setButtonColor(buttons[2], 134, 89, 255);
+setButtonColor(buttons[3], 255, 255, 0);
+setButtonColor(buttons[4], 0, 255, 255);
+setButtonColor(buttons[5], 255, 0, 255);
