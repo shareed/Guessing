@@ -1,4 +1,4 @@
-.colourButton{
+.color-button{
     background-color: rgb(255,0,0);
     width: 50px;
     height: 50px;
@@ -8,7 +8,7 @@
     margin: 10px;
 }
 
-#buttonWrapper{
+#button-container{
     width: 100%;
     display: flex;
     flex-wrap: wrap;
@@ -20,5 +20,5 @@ h1{
     text-align: center;
 }
 
-#colourValue{
+#color-value{
     margin: 0 auto;
